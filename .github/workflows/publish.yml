@@ -5,7 +5,7 @@ on:
     branches:
       - development
   schedule:
-    - cron: '0,15,30,45 * * * *'
+    - cron: '0 * * * *'
 
 jobs:
   publish:
