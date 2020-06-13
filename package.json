@@ -1,0 +1,11 @@
+{
+  "name": "modernetrattoriadubourg-website",
+  "version": "0.0.0",
+  "private": true,
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modernetrattoriadubourg/modernetrattoriadubourg.github.io.git"
+  },
+  "scripts": {}
+}
