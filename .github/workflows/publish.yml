@@ -1,4 +1,4 @@
-name: Publish
+name: Publish to GitHub Pages
 
 on:
   push:
@@ -6,11 +6,13 @@ on:
       - master
 
 jobs:
-  build:
+  publish:
+    name: Publish
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: enriikke/gatsby-gh-pages-action@v2
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      - name: Gatsby Publish
+        uses: enriikke/gatsby-gh-pages-action@v2
         with:
           access-token: ${{ secrets.ACCESS_TOKEN }}
