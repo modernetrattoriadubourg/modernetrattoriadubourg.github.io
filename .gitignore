@@ -11,3 +11,7 @@ Desktop.ini
 
 # Node specific
 node_modules
+
+# Gatsby specific
+.cache
+public
