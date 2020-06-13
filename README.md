@@ -2,7 +2,7 @@
 
 This is the website for Moderne Trattoria du Bourg, which is based in Fribourg, Switzerland.
 
-[Gatsby](https://www.gatsbyjs.org/) is used for generating static pages, using [React](https://www.reactjs.org/) as a renderer. Built app is then published to [GitHub Pages](https://pages.github.com/) using [GitHub Actions](https://github.com/actions/) (and is re-built every hour).
+[Gatsby](https://www.gatsbyjs.org/) is used for generating static pages, using [React](https://www.reactjs.org/) as a renderer. Built app is then published to [GitHub Pages](https://pages.github.com/) using [GitHub Actions](https://github.com/actions/).
 
 [![Using JavaScript Standard Style](https://cdn.rawgit.com/standard/standard/master/badge.svg)](http://standardjs.com/)
 
