@@ -1,4 +1,4 @@
-# Moderne Trattoria du Bourg
+# Moderne Trattoria du Bourg website
 
 This is the website for Moderne Trattoria du Bourg, which is based in Fribourg, Switzerland.
 
