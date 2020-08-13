@@ -1,7 +1,7 @@
-import React from 'react'
+import { navigate } from 'gatsby'
 
 function Home () {
-  return <>Moderne Trattoria du Bourg</>
+  return navigate(process.env.GATSBY_FACEBOOK_PAGE_URL)
 }
 
 export default Home
