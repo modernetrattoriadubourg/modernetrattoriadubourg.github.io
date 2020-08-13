@@ -7,5 +7,5 @@ module.exports = {
     title: 'Moderne Trattoria du Bourg',
     siteUrl: 'https://modernetrattoriadubourg.ch'
   },
-  plugins: ['gatsby-plugin-favicon', 'gatsby-plugin-offline']
+  plugins: ['gatsby-plugin-favicon', 'gatsby-plugin-remove-serviceworker']
 }
