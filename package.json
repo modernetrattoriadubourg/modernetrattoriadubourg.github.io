@@ -14,7 +14,7 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "gatsby": "^2.23.3",
+    "gatsby": "^2.27.0",
     "gatsby-plugin-favicon": "^3.1.6"
   },
   "devDependencies": {
