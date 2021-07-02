@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(t,e,n){"use strict";n.r(e);var o=n("q1tI"),a=n.n(o),r=n("Wbzz");var i=function(){return Object(r.b)("512065377").site.siteMetadata};e.default=function(){var t=i().title;return"undefined"!=typeof window&&(window.location="https://facebook.com/moderne-trattoria-du-bourg-108445260929992/"),a.a.createElement(a.a.Fragment,null,t)}}}]);
+//# sourceMappingURL=component---src-pages-index-js-b0ca6b557df19fdc0c78.js.map
